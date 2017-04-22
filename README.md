@@ -1,4 +1,7 @@
-# test coverage for  [express-limiter (v1.6.0)](https://github.com/ded/express-limiter)  [![npm package](https://img.shields.io/npm/v/npmtest-express-limiter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-limiter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-limiter.svg)](https://travis-ci.org/npmtest/node-npmtest-express-limiter)
+# npmtest-express-limiter
+
+#### basic test coverage for  [express-limiter (v1.6.0)](https://github.com/ded/express-limiter)  [![npm package](https://img.shields.io/npm/v/npmtest-express-limiter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-limiter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-limiter.svg)](https://travis-ci.org/npmtest/node-npmtest-express-limiter)
+
 #### rate limiter middleware for express applications
 
 [![NPM](https://nodei.co/npm/express-limiter.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-limiter)
@@ -74,7 +77,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "1.6.0"
+    "version": "1.6.0",
+    "bin": {}
 }
 ```
 
